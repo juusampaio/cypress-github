@@ -58,6 +58,8 @@ package.json
 - `support/` -> Configurações e comandos customizados
 - `.github/workflows/` -> Pipeline de CI com GitHub Actions
 
+---
+
 ## Observações
 
 O projeto está estruturado para ser expandido facilmente com:
@@ -66,7 +68,10 @@ O projeto está estruturado para ser expandido facilmente com:
 - Testes de API
 - Execução paralela
 
-Autora
+--- 
+
+## Autora
 
 Julia Sampaio Cavalcanti Silva
+
 LinkedIn: https://linkedin.com/in/julia-sampaio-oficial/
